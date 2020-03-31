@@ -1,0 +1,32 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Inknut+Antiqua&display=swap');
+
+/*
+font-family: 'Inknut Antiqua', serif;
+font-family: 'IBM Plex Mono', monospace;
+*/
+
+body {
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+h1, h2, .skills-list {
+    font-family: 'Inknut Antiqua', serif;
+}
+
+/* image will take max width of it's container */
+img {
+    max-width: 100%;
+}
+
+.profile-pic {
+    width: 300px;
+}
+
+nav {
+    background: #DBEBF4;
+}
+
+nav ul li {
+    display: inline-block;
+}
