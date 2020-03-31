@@ -30,3 +30,7 @@ nav {
 nav ul li {
     display: inline-block;
 }
+
+nav ul {
+    text-align: center;
+}
